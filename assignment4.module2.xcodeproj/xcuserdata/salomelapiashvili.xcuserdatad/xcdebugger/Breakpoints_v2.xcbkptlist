@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D3A7D5FD-7534-42A9-A73F-21E27FC12D25"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00C21964-A414-472D-9CBE-F440C4E59B7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "assignment4.module2/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "SceneDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "00C21964-A414-472D-9CBE-F440C4E59B7D - 2359f176b94215bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "assignment4_module2.SceneDelegate.sceneDidDisconnect(__C.UIScene) -&gt; ()"
+                  moduleName = "assignment4.module2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/salomelapiashvili/Desktop/assignment4.module2/assignment4.module2/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "00C21964-A414-472D-9CBE-F440C4E59B7D - 2359f176b94215de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "assignment4_module2.SceneDelegate.sceneDidDisconnect(__C.UIScene) -&gt; ()"
+                  moduleName = "assignment4.module2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/salomelapiashvili/Desktop/assignment4.module2/assignment4.module2/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
